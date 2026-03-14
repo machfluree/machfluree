@@ -1,10 +1,10 @@
 # 💫 About Me:
-A passionate software engineer for a reason. He who loves cats.
+A passionate software engineer trying to put food on a table.
 
-- 🔭 I'm trying to fog my brain with new softwares especially AI
+- 🔭 I'm heavily exploring AI good shit
 - 🌱 I’m currently learning how to backflip and rollspike
 - 👯 I’m looking to collaborate on full-stack projects
-- 🤔 I’m looking for help with setting up a good job
+- 🤔 I’m looking for help setting up a farm
 - 💬 Ask me about something you're interested at
 - ⚡ Fun fact: Did you know that you'll get more things done if you stop scrolling?
 
