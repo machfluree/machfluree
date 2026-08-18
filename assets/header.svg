@@ -55,7 +55,7 @@
   </style>
 
   <text class="name" x="12" y="38">machfluree</text>
-  <line class="rule" x1="12" y1="50" x2="548" y2="50" />
+  <!-- <line class="rule" x1="12" y1="50" x2="548" y2="50" /> -->
 
   <g clip-path="url(#reveal1)">
     <text class="line" x="12" y="82" textLength="230" lengthAdjust="spacing">Full-stack engineer.</text>
