@@ -58,13 +58,13 @@
   <!-- <line class="rule" x1="12" y1="50" x2="548" y2="50" /> -->
 
   <g clip-path="url(#reveal1)">
-    <text class="line" x="12" y="82" textLength="230" lengthAdjust="spacing">Full-stack engineer.</text>
+    <text class="line" x="12" y="82" textLength="230" lengthAdjust="spacing">Software Engineer by night.</text>
   </g>
   <g clip-path="url(#reveal2)">
-    <text class="line" x="12" y="82" textLength="414" lengthAdjust="spacing">Backend, data pipelines, AI tooling.</text>
+    <text class="line" x="12" y="82" textLength="414" lengthAdjust="spacing">Sleeper by day.</text>
   </g>
   <g clip-path="url(#reveal3)">
-    <text class="line" x="12" y="82" textLength="345" lengthAdjust="spacing">Currently debugging something.</text>
+    <text class="line" x="12" y="82" textLength="345" lengthAdjust="spacing">Wanna grab some coffee?</text>
   </g>
 
   <!-- Shared cursor: x tracks whichever line is revealing, plus a 1s blink. -->
