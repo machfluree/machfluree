@@ -1,17 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 110" width="560" height="110" role="img" aria-label="machfluree — full-stack engineer">
-  <title>machfluree — full-stack engineer</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 100" width="560" height="100" role="img" aria-label="machfluree — software engineer by night, sleeper by day">
+  <title>machfluree — software engineer by night, sleeper by day</title>
 
   <defs>
     <!-- Each line reveals via an animated clip rect.
          Line 1 has a non-zero static width so the header still reads
          correctly anywhere animation doesn't run. -->
     <clipPath id="reveal1">
-      <rect x="12" y="60" width="230" height="30">
+      <rect x="12" y="60" width="311" height="30">
         <animate attributeName="width"
                  dur="11.4s" repeatCount="indefinite"
                  calcMode="linear"
                  keyTimes="0; 0.1404; 0.2632; 0.3158; 1"
-                 values="0; 230; 230; 0; 0" />
+                 values="0; 311; 311; 0; 0" />
       </rect>
     </clipPath>
 
@@ -21,7 +21,7 @@
                  dur="11.4s" repeatCount="indefinite"
                  calcMode="linear"
                  keyTimes="0; 0.3333; 0.4737; 0.5965; 0.6491; 1"
-                 values="0; 0; 414; 414; 0; 0" />
+                 values="0; 0; 173; 173; 0; 0" />
       </rect>
     </clipPath>
 
@@ -31,7 +31,7 @@
                  dur="11.4s" repeatCount="indefinite"
                  calcMode="linear"
                  keyTimes="0; 0.6667; 0.8070; 0.9298; 0.9825; 1"
-                 values="0; 0; 345; 345; 0; 0" />
+                 values="0; 0; 265; 265; 0; 0" />
       </rect>
     </clipPath>
   </defs>
@@ -58,22 +58,22 @@
   <!-- <line class="rule" x1="12" y1="50" x2="548" y2="50" /> -->
 
   <g clip-path="url(#reveal1)">
-    <text class="line" x="12" y="82" textLength="230" lengthAdjust="spacing">Software Engineer by night.</text>
+    <text class="line" x="12" y="82" textLength="311" lengthAdjust="spacing">Software Engineer by night.</text>
   </g>
   <g clip-path="url(#reveal2)">
-    <text class="line" x="12" y="82" textLength="414" lengthAdjust="spacing">Sleeper by day.</text>
+    <text class="line" x="12" y="82" textLength="173" lengthAdjust="spacing">Sleeper by day.</text>
   </g>
   <g clip-path="url(#reveal3)">
-    <text class="line" x="12" y="82" textLength="345" lengthAdjust="spacing">Wanna grab some coffee?</text>
+    <text class="line" x="12" y="82" textLength="265" lengthAdjust="spacing">Wanna grab some coffee?</text>
   </g>
 
   <!-- Shared cursor: x tracks whichever line is revealing, plus a 1s blink. -->
-  <rect class="cursor" x="242" y="65" width="2" height="22">
+  <rect class="cursor" x="323" y="65" width="2" height="22">
     <animate attributeName="x"
              dur="11.4s" repeatCount="indefinite"
              calcMode="linear"
              keyTimes="0; 0.1404; 0.2632; 0.3158; 0.3333; 0.4737; 0.5965; 0.6491; 0.6667; 0.8070; 0.9298; 0.9825; 1"
-             values="12; 242; 242; 12; 12; 426; 426; 12; 12; 357; 357; 12; 12" />
+             values="12; 323; 323; 12; 12; 185; 185; 12; 12; 277; 277; 12; 12" />
     <animate attributeName="opacity"
              dur="1s" repeatCount="indefinite"
              calcMode="discrete"
