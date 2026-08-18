@@ -1,20 +1,86 @@
-#### About Me
-A passionate software engineer trying to put food on a table.
-- 🔭 I'm heavily exploring AI good shit
-- 🌱 I’m currently learning how to invest strategically
-- 👯 I’m looking to collaborate on full-stack projects
-- 🤔 I’m looking for help setting up a farm
-- 💬 Ask me about something you're interested at
-- ⚡ Fun fact: Did you know that your cat doesn't care about you?
-#### Tech Stack
+<!--
+  GitHub Profile README
+  Repo name must match your username exactly: machfluree/machfluree
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Typescript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=%23fff) ![React|86](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/nuxt-002E3B?style=for-the-badge&logo=nuxt&logoColor=#00DC82)
+  Every image here is served from this repo. Nothing external can take it down.
+    ./assets/header.svg  - animated header, hand-written, static file
+    ./profile/*.svg      - stats cards, regenerated daily by
+                           .github/workflows/profile-cards.yml
+-->
 
-![NestJS|78](https://img.shields.io/badge/nest-%23EA2845.svg?style=for-the-badge&logo=nestjs&logoColor=%white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![C#|41](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![PHP|71](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel|103](https://img.shields.io/badge/laravel-%23f53003.svg?style=for-the-badge&logo=laravel&logoColor=white)
+<div align="">
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="./assets/header.svg" width="640" alt="machfluree — full-stack engineer" />
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-#### Random shit by someone known...
+<p>
+  <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <!-- <a href="https://your-site.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a> -->
+</p>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github)
+</div>
+
+---
+
+### About
+
+I like systems that hold up under real traffic, code that still reads well six months later, and the occasional weekend rabbit hole.
+
+- 🔬 **Exploring** — AI tooling, agents, and everything that comes with them
+- 📈 **Learning** — how to invest with a plan instead of a vibe
+- 🤝 **Open to** — full-stack collabs, especially anything gnarly and ambitious
+- 🌾 **Genuinely need help with** — setting up a farm. Not a metaphor.
+- 💬 **Ask me about** — whatever you're deep in right now. I'll probably have thoughts.
+- 🐈 **Fun fact** — your cat has, at best, filed you under "warm furniture that opens cans."
+
+---
+
+### Stack
+
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,nuxtjs,tailwind&theme=dark" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,cs,dotnet,php,laravel&theme=dark" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" alt="Data" />
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,figma&theme=dark" alt="Tooling" />
+
+---
+
+### Stats
+
+<div align="center">
+
+<img height="165" src="./profile/stats.svg" alt="GitHub stats" />
+<img height="165" src="./profile/top-langs.svg" alt="Top languages" />
+
+</div>
+
+---
+
+<details>
+<summary><b>Currently building</b></summary>
+
+<br>
+
+| Project | What it is | Status |
+| --- | --- | --- |
+| [project-one](https://github.com/machfluree) | One line on what it does | 🟢 Active |
+| [project-two](https://github.com/machfluree) | One line on what it does | 🟡 Slow burn |
+| [project-three](https://github.com/machfluree) | One line on what it does | 🔵 Shipped |
+
+</details>
+
+<details>
+<summary><b>Things I believe about software</b></summary>
+
+<br>
+
+- Boring technology wins more often than it loses.
+- If it isn't in version control, it doesn't exist.
+- The best abstraction is the one you didn't need to write.
+- Most performance problems are a query you haven't looked at yet.
+
+</details>
+
+<div align="center">
+<br>
+<sub>Open to interesting problems — the inbox is up there. ↑</sub>
+</div>
