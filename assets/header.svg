@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 110" width="560" height="110" role="img" aria-label="machfluree — full-stack engineer">
+  <title>machfluree — full-stack engineer</title>
+
+  <defs>
+    <!-- Each line reveals via an animated clip rect.
+         Line 1 has a non-zero static width so the header still reads
+         correctly anywhere animation doesn't run. -->
+    <clipPath id="reveal1">
+      <rect x="12" y="60" width="230" height="30">
+        <animate attributeName="width"
+                 dur="11.4s" repeatCount="indefinite"
+                 calcMode="linear"
+                 keyTimes="0; 0.1404; 0.2632; 0.3158; 1"
+                 values="0; 230; 230; 0; 0" />
+      </rect>
+    </clipPath>
+
+    <clipPath id="reveal2">
+      <rect x="12" y="60" width="0" height="30">
+        <animate attributeName="width"
+                 dur="11.4s" repeatCount="indefinite"
+                 calcMode="linear"
+                 keyTimes="0; 0.3333; 0.4737; 0.5965; 0.6491; 1"
+                 values="0; 0; 414; 414; 0; 0" />
+      </rect>
+    </clipPath>
+
+    <clipPath id="reveal3">
+      <rect x="12" y="60" width="0" height="30">
+        <animate attributeName="width"
+                 dur="11.4s" repeatCount="indefinite"
+                 calcMode="linear"
+                 keyTimes="0; 0.6667; 0.8070; 0.9298; 0.9825; 1"
+                 values="0; 0; 345; 345; 0; 0" />
+      </rect>
+    </clipPath>
+  </defs>
+
+  <style>
+    .name {
+      font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+      font-size: 34px;
+      font-weight: 700;
+      fill: #2F81F7;
+      letter-spacing: -0.5px;
+    }
+    .line {
+      font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+      font-size: 19px;
+      font-weight: 400;
+      fill: #7D8590;
+    }
+    .cursor { fill: #2F81F7; }
+    .rule { stroke: #7D8590; stroke-width: 1; opacity: 0.25; }
+  </style>
+
+  <text class="name" x="12" y="38">machfluree</text>
+  <line class="rule" x1="12" y1="50" x2="548" y2="50" />
+
+  <g clip-path="url(#reveal1)">
+    <text class="line" x="12" y="82" textLength="230" lengthAdjust="spacing">Full-stack engineer.</text>
+  </g>
+  <g clip-path="url(#reveal2)">
+    <text class="line" x="12" y="82" textLength="414" lengthAdjust="spacing">Backend, data pipelines, AI tooling.</text>
+  </g>
+  <g clip-path="url(#reveal3)">
+    <text class="line" x="12" y="82" textLength="345" lengthAdjust="spacing">Currently debugging something.</text>
+  </g>
+
+  <!-- Shared cursor: x tracks whichever line is revealing, plus a 1s blink. -->
+  <rect class="cursor" x="242" y="65" width="2" height="22">
+    <animate attributeName="x"
+             dur="11.4s" repeatCount="indefinite"
+             calcMode="linear"
+             keyTimes="0; 0.1404; 0.2632; 0.3158; 0.3333; 0.4737; 0.5965; 0.6491; 0.6667; 0.8070; 0.9298; 0.9825; 1"
+             values="12; 242; 242; 12; 12; 426; 426; 12; 12; 357; 357; 12; 12" />
+    <animate attributeName="opacity"
+             dur="1s" repeatCount="indefinite"
+             calcMode="discrete"
+             keyTimes="0; 0.5; 1"
+             values="1; 0; 1" />
+  </rect>
+</svg>
