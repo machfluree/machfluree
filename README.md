@@ -54,8 +54,11 @@ I like systems that hold up under real traffic, code that still reads well six m
 <summary><b>Things I believe about software</b></summary>
 <br>
 - Boring technology wins more often than it loses.
+<br>
 - If it isn't in version control, it doesn't exist.
+<br>
 - The best abstraction is the one you didn't need to write.
+<br>
 - Most performance problems are a query you haven't looked at yet.
 </details>
 
