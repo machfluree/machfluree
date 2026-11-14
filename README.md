@@ -31,11 +31,13 @@ I like systems that hold up under real traffic, code that still reads well six m
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" alt="Data" />
   <img src="https://skillicons.dev/icons?i=git,docker,linux,figma&theme=dark" alt="Tooling" />
 
+<!--
 #### Stats
 <div align="center">
 <img height="165" src="./profile/stats.svg" alt="GitHub stats" />
 <img height="165" src="./profile/top-langs.svg" alt="Top languages" />
 </div>
+-->
 
 <!-- <details>
 <summary><b>Currently building</b></summary>
@@ -50,6 +52,7 @@ I like systems that hold up under real traffic, code that still reads well six m
 
 </details> -->
 
+<!--
 <details>
 <summary><b>Things I believe about software</b></summary>
 <br>
@@ -61,6 +64,7 @@ I like systems that hold up under real traffic, code that still reads well six m
 <br>
 - Most performance problems are a query you haven't looked at yet.
 </details>
+-->
 
 <div align="center">
 <br>
